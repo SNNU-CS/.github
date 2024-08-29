@@ -4,4 +4,4 @@
 
 ## 加入与联系方式
 
-[在此提交](https://github.com/snnucs/.github/issues/new?assignees=xiekeyi98%2C+ZhaoQi99&template=join.md&title=Join+Github+Organization) Issue 。
+[在此提交](https://github.com/SNNU-CS/.github/issues/new?assignees=xiekeyi98%2C+ZhaoQi99&template=join.md&title=Join+Github+Organization) Issue 。
